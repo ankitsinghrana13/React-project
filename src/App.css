@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+.form-group input{
+width: 300px;
+margin: 0 auto;
+
+
+}
+.form-control{
+
+  line-height: 40px;
+}
+.form-group label{
+  line-height: 40px;
+}
+
